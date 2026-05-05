@@ -1,0 +1,15 @@
+# Hugo build output
+public/
+resources/_gen/
+
+# Hugo lock
+.hugo_build.lock
+
+# Swap files
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
