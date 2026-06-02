@@ -1,13 +1,15 @@
 baseURL: http://figcode.top/
 locale: en-us
-title: My New Hugo Project
+title: "Anabasis Xu's Blog"
 theme: jijian
 
 params:
-  defaultTheme: "auto"
+  defaultTheme: "dark"
   ShowReadingTime: true
   ShowShareButtons: false
   showtoc: true
+  footer:
+    icpRecord: "浙ICP备2026017695号-1"
 
 menu:
   main:
